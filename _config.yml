@@ -1,0 +1,17 @@
+# GitHub Pages Configuration
+# https://docs.github.com/en/pages
+
+title: Web Metro Limited
+description: Building Digital Africa — Web development, app development and digital marketing for African businesses.
+url: "https://YOUR-USERNAME.github.io"
+baseurl: "/webmetro"
+
+# Exclude WordPress theme zip and source files from Jekyll processing
+exclude:
+  - webmetro.zip
+  - README.md
+  - "*.sh"
+
+# Don't use a Jekyll theme — we have our own HTML
+theme: null
+plugins: []
