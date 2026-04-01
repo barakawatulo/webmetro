@@ -1,0 +1,17 @@
+/*
+Theme Name:  WebMetro
+Theme URI:   https://webmetro.co.ke
+Author:      Web Metro Limited
+Author URI:  https://webmetro.co.ke
+Description: Official website theme for Web Metro Limited — Building Digital Africa. Features editable hero, services, portfolio, testimonials, blog and contact sections via WordPress Customizer and Custom Post Types.
+Version:     1.0.0
+Requires at least: 6.0
+Tested up to: 6.5
+Requires PHP: 8.0
+License:     Proprietary
+Text Domain: webmetro
+Tags:        custom-background, custom-logo, custom-menu, full-width-template, one-page, business
+*/
+
+/* ── All visual styles are loaded via assets/css/main.css ── */
+/* ── This file exists solely for WordPress theme detection  ── */
